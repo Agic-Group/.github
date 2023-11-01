@@ -19,11 +19,4 @@ Some data:
 <div/>
 <br />
 
- <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KeyserDSoze&theme=dark" alt="Keyser D. Soze" />
-<div/>
-<br />
-
-<br />
-
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=Agic-Group&repo=.github&countColor=%237B1E7A)
