@@ -23,11 +23,6 @@ Some data:
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KeyserDSoze&theme=dark" alt="Keyser D. Soze" />
 <div/>
 <br />
-  
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Agic-Group&theme=dark" alt="Agic Group" />
-<div/>
-<br />
 
 <br />
 
