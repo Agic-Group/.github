@@ -1,12 +1,22 @@
-## Hi there 👋
+### Hi there. We're Agic Group 👋
 
-<!--
+[![Linkedin Badge](https://img.shields.io/badge/-Agic%20Group-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/agic-technology/)](https://www.linkedin.com/company/agic-technology/)
 
-**Here are some ideas to get you started:**
+Some data:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<div>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Agic-Group&layout=compact&theme=dark" alt="Agic Group" />
+<div/>
+<br />
+  
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Agic-Group&show_icons=true&theme=dark" alt="Agic Group" />
+<div/>
+<br />
+  
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agic-Group&layout=compact&theme=dark" alt="Agic Group" />
+<div/>
+<br />
+
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=Agic-Group&repo=.github&countColor=%237B1E7A)
